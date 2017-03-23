@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HearIt</string>
+    <string name="title_activity_sound_list">SoundListActivity</string>
+</resources>
